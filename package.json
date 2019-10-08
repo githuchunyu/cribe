@@ -1,0 +1,25 @@
+{
+  "name": "cribe",
+  "version": "1.0.0",
+  "description": "A package for api requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/githuchunyu/cribe.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "chunyu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/githuchunyu/cribe/issues"
+  },
+  "homepage": "https://github.com/githuchunyu/cribe#readme",
+  "dependencies": {
+    "mockjs": "^1.0.1-beta3"
+  }
+}
