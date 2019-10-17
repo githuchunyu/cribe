@@ -1,8 +1,10 @@
+import QS from 'qs'
+
 export default options => {
-  const arguments = []
+  const args = []
   if (options.method !== 'get') {
     options.data = QS(options.params)
   }
-  arguments[0] = options
-  return arguments
+  args[0] = options
+  return args
 }
