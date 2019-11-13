@@ -1,6 +1,6 @@
 {
   "name": "cribe",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A package for api requests",
   "main": "index.js",
   "scripts": {
